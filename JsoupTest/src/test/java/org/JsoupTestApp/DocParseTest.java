@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 
 public class DocParseTest {
 
-    //
+
     @Test
     public void TestValidParseConnection() {
         DocParse docParse = new DocParse();
@@ -18,7 +18,7 @@ public class DocParseTest {
         }
     }
 
-    //Che
+
     @Test
     public void TestInvalidParseConnection() {
         DocParse docParse = new DocParse();
@@ -27,7 +27,7 @@ public class DocParseTest {
             fail("Error should have been thrown");
         }
         catch(Exception e) {
-            return;
+            assertTrue(true);
         }
     }
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment-7-CEN-4802C.iml" filepath="$PROJECT_DIR$/.idea/Assignment-7-CEN-4802C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsoupTest/JsoupTest.iml" filepath="$PROJECT_DIR$/JsoupTest/JsoupTest.iml" />
+    </modules>
+  </component>
+</project>
